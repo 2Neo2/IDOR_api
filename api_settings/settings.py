@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'rest_framework',
     "general_settings",
     'online_store',
-    'log_viewer',
     'rest_framework_api_key',
 ]
 
