@@ -33,7 +33,7 @@ python manage.py createsuperuser
 python manage.py test
 ```
 
-### 5. Запуск сервера разработки
+### 5. Запуск сервера
 
 Для запуска локального сервера используйте:
 
