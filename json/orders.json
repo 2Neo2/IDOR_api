@@ -1,0 +1,272 @@
+[
+  {
+    "id": 10001,
+    "user": "801ca37a-4b5a-424e-af52-bf1a78afc916",
+    "store": 101,
+    "product": "Wireless Mouse",
+    "amount": "29.99",
+    "status": "shipped",
+    "created_at": "2025-05-15T14:30:00Z"
+  },
+  {
+    "id": 10002,
+    "user": "801ca37a-4b5a-424e-af52-bf1a78afc916",
+    "store": 102,
+    "product": "Bluetooth Headphones",
+    "amount": "79.99",
+    "status": "delivered",
+    "created_at": "2025-04-10T11:20:00Z"
+  },
+  {
+    "id": 10003,
+    "user": "801ca37a-4b5a-424e-af52-bf1a78afc916",
+    "store": 103,
+    "product": "USB-C Charger",
+    "amount": "19.99",
+    "status": "processing",
+    "created_at": "2025-06-01T08:15:00Z"
+  },
+  {
+    "id": 10004,
+    "user": "429fd548-1331-4873-98d4-bc2b99c394f2",
+    "store": 104,
+    "product": "Smart Thermostat",
+    "amount": "129.50",
+    "status": "shipped",
+    "created_at": "2025-05-10T14:45:00Z"
+  },
+  {
+    "id": 10005,
+    "user": "429fd548-1331-4873-98d4-bc2b99c394f2",
+    "store": 101,
+    "product": "Wireless Keyboard",
+    "amount": "49.99",
+    "status": "delivered",
+    "created_at": "2025-03-30T10:30:00Z"
+  },
+  {
+    "id": 10006,
+    "user": "429fd548-1331-4873-98d4-bc2b99c394f2",
+    "store": 102,
+    "product": "Smart Watch",
+    "amount": "199.99",
+    "status": "processing",
+    "created_at": "2025-06-01T09:15:00Z"
+  },
+  {
+    "id": 10007,
+    "user": "4d35d8fc-3aaf-41c0-92fa-fa46aaf15535",
+    "store": 104,
+    "product": "Smart Thermostat",
+    "amount": "129.50",
+    "status": "delivered",
+    "created_at": "2025-04-20T17:45:00Z"
+  },
+  {
+    "id": 10008,
+    "user": "4d35d8fc-3aaf-41c0-92fa-fa46aaf15535",
+    "store": 103,
+    "product": "Gaming Mousepad",
+    "amount": "19.99",
+    "status": "shipped",
+    "created_at": "2025-06-04T12:15:00Z"
+  },
+  {
+    "id": 10009,
+    "user": "4d35d8fc-3aaf-41c0-92fa-fa46aaf15535",
+    "store": 101,
+    "product": "External SSD 1TB",
+    "amount": "159.99",
+    "status": "processing",
+    "created_at": "2025-05-22T08:40:00Z"
+  },
+  {
+    "id": 10010,
+    "user": "79111ef5-da33-42d0-9968-2b02512dee3d",
+    "store": 101,
+    "product": "Laptop Sleeve",
+    "amount": "25.99",
+    "status": "delivered",
+    "created_at": "2025-05-05T10:00:00Z"
+  },
+  {
+    "id": 10011,
+    "user": "79111ef5-da33-42d0-9968-2b02512dee3d",
+    "store": 102,
+    "product": "USB Cable",
+    "amount": "9.99",
+    "status": "shipped",
+    "created_at": "2025-05-12T09:20:00Z"
+  },
+  {
+    "id": 10012,
+    "user": "79111ef5-da33-42d0-9968-2b02512dee3d",
+    "store": 103,
+    "product": "Wireless Charger",
+    "amount": "39.99",
+    "status": "processing",
+    "created_at": "2025-05-25T14:30:00Z"
+  },
+  {
+    "id": 10013,
+    "user": "c8e069a1-a1be-4695-b68b-a7797e85d108",
+    "store": 104,
+    "product": "Smart Light Bulb",
+    "amount": "15.99",
+    "status": "delivered",
+    "created_at": "2025-05-15T15:00:00Z"
+  },
+  {
+    "id": 10014,
+    "user": "c8e069a1-a1be-4695-b68b-a7797e85d108",
+    "store": 101,
+    "product": "Bluetooth Speaker",
+    "amount": "45.00",
+    "status": "shipped",
+    "created_at": "2025-06-01T13:20:00Z"
+  },
+  {
+    "id": 10015,
+    "user": "c8e069a1-a1be-4695-b68b-a7797e85d108",
+    "store": 102,
+    "product": "Fitness Tracker",
+    "amount": "89.99",
+    "status": "processing",
+    "created_at": "2025-06-05T10:40:00Z"
+  },
+  {
+    "id": 10016,
+    "user": "49558f89-7fce-4767-81f3-836dabea5e7b",
+    "store": 103,
+    "product": "Gaming Headset",
+    "amount": "69.99",
+    "status": "delivered",
+    "created_at": "2025-04-28T16:15:00Z"
+  },
+  {
+    "id": 10017,
+    "user": "49558f89-7fce-4767-81f3-836dabea5e7b",
+    "store": 104,
+    "product": "Smart Door Lock",
+    "amount": "149.99",
+    "status": "shipped",
+    "created_at": "2025-05-19T11:45:00Z"
+  },
+  {
+    "id": 10018,
+    "user": "49558f89-7fce-4767-81f3-836dabea5e7b",
+    "store": 101,
+    "product": "Webcam",
+    "amount": "55.99",
+    "status": "processing",
+    "created_at": "2025-06-02T09:30:00Z"
+  },
+  {
+    "id": 10019,
+    "user": "8ea37ef7-02c9-4810-a096-5f2768ef5ad0",
+    "store": 102,
+    "product": "Portable Charger",
+    "amount": "29.99",
+    "status": "delivered",
+    "created_at": "2025-05-10T10:10:00Z"
+  },
+  {
+    "id": 10020,
+    "user": "8ea37ef7-02c9-4810-a096-5f2768ef5ad0",
+    "store": 103,
+    "product": "Laptop Stand",
+    "amount": "39.99",
+    "status": "shipped",
+    "created_at": "2025-05-22T14:00:00Z"
+  },
+  {
+    "id": 10021,
+    "user": "8ea37ef7-02c9-4810-a096-5f2768ef5ad0",
+    "store": 104,
+    "product": "Wireless Earbuds",
+    "amount": "79.99",
+    "status": "processing",
+    "created_at": "2025-06-06T09:00:00Z"
+  },
+  {
+    "id": 10022,
+    "user": "e2bb7ff0-4823-4b72-8b8a-cb369622f7b0",
+    "store": 101,
+    "product": "Smartphone Case",
+    "amount": "15.99",
+    "status": "delivered",
+    "created_at": "2025-04-30T12:00:00Z"
+  },
+  {
+    "id": 10023,
+    "user": "e2bb7ff0-4823-4b72-8b8a-cb369622f7b0",
+    "store": 102,
+    "product": "Wireless Mouse",
+    "amount": "25.99",
+    "status": "shipped",
+    "created_at": "2025-05-20T13:30:00Z"
+  },
+  {
+    "id": 10024,
+    "user": "e2bb7ff0-4823-4b72-8b8a-cb369622f7b0",
+    "store": 103,
+    "product": "USB Flash Drive",
+    "amount": "12.99",
+    "status": "processing",
+    "created_at": "2025-06-03T15:00:00Z"
+  },
+  {
+    "id": 10025,
+    "user": "486e81fa-2e76-4515-a640-a34c9a2c91e6",
+    "store": 104,
+    "product": "Gaming Chair",
+    "amount": "199.99",
+    "status": "delivered",
+    "created_at": "2025-04-25T17:20:00Z"
+  },
+  {
+    "id": 10026,
+    "user": "486e81fa-2e76-4515-a640-a34c9a2c91e6",
+    "store": 101,
+    "product": "Mechanical Keyboard",
+    "amount": "89.99",
+    "status": "shipped",
+    "created_at": "2025-05-18T11:10:00Z"
+  },
+  {
+    "id": 10027,
+    "user": "486e81fa-2e76-4515-a640-a34c9a2c91e6",
+    "store": 102,
+    "product": "HD Monitor",
+    "amount": "129.99",
+    "status": "processing",
+    "created_at": "2025-06-05T14:50:00Z"
+  },
+  {
+    "id": 10028,
+    "user": "f46fd1cb-400e-43e1-bdf8-1d07750a4a71",
+    "store": 103,
+    "product": "External Hard Drive",
+    "amount": "79.99",
+    "status": "delivered",
+    "created_at": "2025-05-12T15:40:00Z"
+  },
+  {
+    "id": 10029,
+    "user": "f46fd1cb-400e-43e1-bdf8-1d07750a4a71",
+    "store": 104,
+    "product": "Smart Home Hub",
+    "amount": "149.99",
+    "status": "shipped",
+    "created_at": "2025-06-02T13:20:00Z"
+  },
+  {
+    "id": 10030,
+    "user": "f46fd1cb-400e-43e1-bdf8-1d07750a4a71",
+    "store": 101,
+    "product": "Wireless Router",
+    "amount": "89.99",
+    "status": "processing",
+    "created_at": "2025-06-06T10:00:00Z"
+  }
+]

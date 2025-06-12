@@ -1,0 +1,92 @@
+[
+  {
+    "id": "801ca37a-4b5a-424e-af52-bf1a78afc916",
+    "first_name": "Gardener",
+    "last_name": "Shark",
+    "email": "gshark0@accuweather.com",
+    "address": "Apt 1189",
+    "requisites": "5516088521576323",
+    "card_type": "diners-club-us-ca"
+  },
+  {
+    "id": "429fd548-1331-4873-98d4-bc2b99c394f2",
+    "first_name": "Brendan",
+    "last_name": "Verrell",
+    "email": "bverrell1@liveinternet.ru",
+    "address": "PO Box 42021",
+    "requisites": "4844131182932272",
+    "card_type": "visa-electron"
+  },
+  {
+    "id": "4d35d8fc-3aaf-41c0-92fa-fa46aaf15535",
+    "first_name": "Giraldo",
+    "last_name": "Trickett",
+    "email": "gtrickett2@uol.com.br",
+    "address": "PO Box 70716",
+    "requisites": "5243108258519310",
+    "card_type": "mastercard"
+  },
+  {
+    "id": "79111ef5-da33-42d0-9968-2b02512dee3d",
+    "first_name": "Imogen",
+    "last_name": "Maddie",
+    "email": "imaddie3@cbslocal.com",
+    "address": "Suite 68",
+    "requisites": "67626599591927797",
+    "card_type": "maestro"
+  },
+  {
+    "id": "c8e069a1-a1be-4695-b68b-a7797e85d108",
+    "first_name": "Marijn",
+    "last_name": "McKelvey",
+    "email": "mmckelvey4@npr.org",
+    "address": "1st Floor",
+    "requisites": "3573017284075855",
+    "card_type": "jcb"
+  },
+  {
+    "id": "49558f89-7fce-4767-81f3-836dabea5e7b",
+    "first_name": "Marissa",
+    "last_name": "Guilleton",
+    "email": "mguilleton5@artisteer.com",
+    "address": "Suite 33",
+    "requisites": "201559894412743",
+    "card_type": "diners-club-enroute"
+  },
+  {
+    "id": "8ea37ef7-02c9-4810-a096-5f2768ef5ad0",
+    "first_name": "Kenna",
+    "last_name": "Crawshay",
+    "email": "kcrawshay6@hp.com",
+    "address": "Apt 76",
+    "requisites": "5585468033060253",
+    "card_type": "diners-club-us-ca"
+  },
+  {
+    "id": "e2bb7ff0-4823-4b72-8b8a-cb369622f7b0",
+    "first_name": "Dara",
+    "last_name": "Bassindale",
+    "email": "dbassindale7@icio.us",
+    "address": "Suite 96",
+    "requisites": "3551698561067982",
+    "card_type": "jcb"
+  },
+  {
+    "id": "486e81fa-2e76-4515-a640-a34c9a2c91e6",
+    "first_name": "Natasha",
+    "last_name": "Perin",
+    "email": "nperin8@adobe.com",
+    "address": "6th Floor",
+    "requisites": "3563041207607885",
+    "card_type": "jcb"
+  },
+  {
+    "id": "f46fd1cb-400e-43e1-bdf8-1d07750a4a71",
+    "first_name": "Zea",
+    "last_name": "Ridgley",
+    "email": "zridgley9@blogtalkradio.com",
+    "address": "6th Floor",
+    "requisites": "5602236258856021",
+    "card_type": "bankcard"
+  }
+]
